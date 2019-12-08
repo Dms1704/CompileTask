@@ -1,0 +1,7 @@
+PROGRAM
+BEGIN
+VAR a = 123 ;
+VAR b = 234 ;
+IF(a <= b)
+	a = b ;
+END
